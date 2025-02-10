@@ -32,14 +32,27 @@
 <table>
  <tr>
     <td align="center"><a href="https://github.com/OSEUK"><img src="https://avatars.githubusercontent.com/u/113842895?v=4" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/LEESY97"><img src="https://avatars.githubusercontent.com/u/77132877?v=4" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Hwanseong0125"><img src="https://avatars.githubusercontent.com/u/131668593?v=4" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/rionk1ng"><img src="https://avatars.githubusercontent.com/u/197749953?v=4" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/8aaakun"><img src="https://avatars.githubusercontent.com/u/108143453?v=4" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/OSEUK"><b>OSEUK</b></a></td>
+    <td align="center"><a href="https://github.com/LEESY97"><b>LSY</b></a></td>
+    <td align="center"><a href="https://github.com/Hwanseong0125"><b>HWANSEONG</b></a></td>
+    <td align="center"><a href="https://github.com/rionk1ng"><b>RionKing</b></a></td>
+    <td align="center"><a href="https://github.com/8aaakun"><b>Gun</b></a></td>
   </tr>
   <tr> 
     <!-- <td align="center"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><br/><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"><br/><img src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white"></td> -->
     <td align="center"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br/></td>
+    <td align="center"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br/></td>
+    <td align="center"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br/></td>
+    <td align="center"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br/></td>
+    <td align="center"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"><br/></td>
   </tr> 
+  
 </table>
 
 <br/>
@@ -63,11 +76,10 @@
 
 ## 📁 Repository 폴더 구조
 ```
-{Github ID}/algorithm/{날짜}/{코드.cpp}
-{Github ID}/sql/{날짜}/{코드.sql}
+{Github ID}/{알고리즘}/{코드.cpp}
 ```
 
-- 💡 예시: `OSUEK/algorithm/week1/PGS_다트_게임.java`
+- 💡 예시: `OSUEK/BFS/BOJ_벽_부수고_이동하기.cpp`
 
 <br/>
 
@@ -82,10 +94,10 @@
 
 ### 플랫폼
 
-| 플랫폼    | 태그  |
-|:-------|:----|
-| 백준   | BOJ |
-| 민코딩 | MCD |
+| 플랫폼  | 태그  |
+|:-------|:----| 
+| 백준    | BOJ  |
+| SWEA   |  SWEA  |
 
 
 ### 이모지 및 태그
