@@ -1,6 +1,6 @@
 /**
  * SW Expert Academy A형 모의 테스트
- * 줄기세포배양양
+ * 줄기세포배양
  */
 #include <iostream>
 #include <vector>
